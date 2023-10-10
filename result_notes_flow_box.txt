@@ -1,0 +1,4 @@
+As the first main target of this pre planned stage is to find out how I implement the creating of class diagramm elements via drag and drop,
+Flow boxes are not particularily useful. However they might prove useful when making an overlay or a sidebar.
+As only the core of the program is set in stone which is the making of class diagrams and none of the UI elements it still remains to be seen.
+The main problem remains, which is: how in gods name can resize a box at will. this still remains to be quite confusing.

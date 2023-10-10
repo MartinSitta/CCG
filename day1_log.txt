@@ -1,0 +1,6 @@
+Every tried solution in GTK4 ended up having a major drawback that seemed not possible to get around.
+Im losing my mind over this.
+All I want to do is to be able to place boxes at will.
+Mb GtkFixed will work but thats for another day.
+I found great ways to make the UI layout for the rest of the UI. just not the core feature and as logn as I dont have that figured out I cant really start.
+Thus concludes the first day of working on this  

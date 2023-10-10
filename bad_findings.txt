@@ -1,0 +1,6 @@
+I thought I found just the thing for me, which would have been GtkTree but it turns out its depricated....
+this is getting very annoying. all I want to do is to be able to resize boxes and position them at will. 
+WHY IN GODS NAME IS THIS SO HARD!? 
+UPDATE: Turns out there is the class GtkColumnView
+If I find a way to order the items at will I would be able to get the class diagram entry right at least positionally.
+If I find out how to do that and find out how to draw connections accordingly with an UML class diagram, I can start properly planning the implementation of the software
