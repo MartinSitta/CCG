@@ -1,0 +1,4 @@
+Every functionality so far can be accessed in C-style functions. The idea is to make classes that implement those functions in a way I want to.
+This means that if I plan the Software correctly, I Can make the UI with way less testing utilizing proper Design patterns and careful implementation.
+The next part I want to do is to find out how to draw boxes and boxes in the boxes to make a class in an UML Diagram.
+First I will hardcode the text in there and then make it work using user input (This will mean expanding box sizes to fit the text or breaking up userinputs in multiple lines and maybe shriking text to fit)
